@@ -1,0 +1,8 @@
+package Order;
+
+public class ShippedOrderState {
+	public class ShippedOrderState implements OrderState {
+	    public void handleOrder() {
+	        System.out.println("Cập nhật trạng thái đơn hàng là đã giao.");
+	    }
+	}

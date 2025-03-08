@@ -1,0 +1,5 @@
+package DecoratorOrder;
+
+public class NotificationDecorator {
+
+}
