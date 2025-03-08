@@ -1,6 +1,6 @@
 package statusOrder;
 
-import Order.OrderState;
+import order.OrderState;
 
 public class NewOrderState implements OrderState {
     public void handleOrder() {

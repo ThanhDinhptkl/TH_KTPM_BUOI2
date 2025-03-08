@@ -1,6 +1,6 @@
 package executeOrder;
 
-import Order.OrderStrategy;
+import order.OrderStrategy;
 
 public class UpdateDeliveredStatusStrategy implements OrderStrategy {
     public void execute() {

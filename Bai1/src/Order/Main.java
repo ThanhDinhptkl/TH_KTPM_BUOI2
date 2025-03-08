@@ -1,7 +1,7 @@
-package Order;
+package order;
 
-import DecoratorOrder.LoggingDecorator;
-import DecoratorOrder.NotificationDecorator;
+import decoratorOrder.LoggingDecorator;
+import decoratorOrder.NotificationDecorator;
 import statusOrder.NewOrderState;
 import statusOrder.ProcessingOrderState;
 import statusOrder.ShippedOrderState;

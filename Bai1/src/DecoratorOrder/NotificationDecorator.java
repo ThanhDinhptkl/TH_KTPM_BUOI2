@@ -1,7 +1,7 @@
-package DecoratorOrder;
+package decoratorOrder;
 
-import Order.OrderDecorator;
-import Order.OrderState;
+import order.OrderDecorator;
+import order.OrderState;
 
 public class NotificationDecorator extends OrderDecorator {
     public NotificationDecorator(OrderState decoratedOrder) {

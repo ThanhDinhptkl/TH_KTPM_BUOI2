@@ -1,4 +1,4 @@
-package Order;
+package order;
 
 public abstract class OrderDecorator implements OrderState {
     protected OrderState decoratedOrder;

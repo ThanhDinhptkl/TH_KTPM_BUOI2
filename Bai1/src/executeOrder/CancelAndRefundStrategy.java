@@ -1,6 +1,6 @@
 package executeOrder;
 
-import Order.OrderStrategy;
+import order.OrderStrategy;
 
 public class CancelAndRefundStrategy implements OrderStrategy {
     public void execute() {

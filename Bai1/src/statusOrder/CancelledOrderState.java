@@ -1,6 +1,6 @@
 package statusOrder;
 
-import Order.OrderState;
+import order.OrderState;
 
 public class CancelledOrderState implements OrderState {
     public void handleOrder() {
