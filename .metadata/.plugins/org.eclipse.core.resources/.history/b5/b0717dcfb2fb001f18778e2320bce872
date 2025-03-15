@@ -1,5 +1,0 @@
-package Order;
-
-public interface OrderState {
-	  void handleOrder();
-}
